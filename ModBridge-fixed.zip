@@ -1,0 +1,14 @@
+Please inspect the uploaded ModBridge-fixed.zip project.
+
+Analyze the Gradle build failure, especially the :core:test task.
+
+Run all available unit tests and identify any remaining failures.
+
+Verify the previous fixes:
+- BPM section splitting.
+- Psych Engine note naming.
+- V-Slice chart output filename.
+
+Fix any remaining errors without removing existing features or changing the original project behavior.
+
+Ensure the project builds successfully and provide the corrected ZIP archive.
